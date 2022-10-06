@@ -1,0 +1,64 @@
+<html>
+<head>
+
+    <title>mikipedia</title>
+
+    <h1><b>so smart web site</b></h1>
+
+    
+    
+
+
+
+
+</head>
+
+
+<body>
+    <style>
+        body {
+            background-color: lightgrey;
+        }
+    </style>
+
+    <style>
+        button {
+            font-size: 33;
+            color: white
+        }
+    </style>
+
+    <style>button{background-color:black}</style>
+
+
+
+    <a href="https://www.animal.c1.biz">
+        <button>animal</button>
+    </a>
+    <style>        body {
+            background: linear-gradient(blue, red);
+        }
+    </style>
+  <style>      h1 {
+    font-size:50  }
+  </style>
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
